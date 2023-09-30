@@ -1,88 +1,88 @@
 [[libpolars]]
 arch = "aarch64"
-git-tree-sha1 = "ae0a10df1bac6f96b0283d2b1562b2473e301728"
+git-tree-sha1 = "5183ce30312d6c36f3d3bec8fd220afd6067c495"
 os = "macos"
 
     [[libpolars.download]]
-    sha256 = "271ee07abcc5d1922d1c5d7bef532afe57ee033981a24319a2ec08311b6f07e8"
-    url = "https://github.com/JuliaBinaryWrappers/libpolars_jll.jl/releases/download/libpolars-v0.1.0+0/libpolars.v0.1.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "0969c6e54c081e8c0ce7e9ff4bd59c607ec2dc9c5e0c4a06e620d62e64d1af22"
+    url = "https://github.com/JuliaBinaryWrappers/libpolars_jll.jl/releases/download/libpolars-v0.1.1+0/libpolars.v0.1.1.aarch64-apple-darwin.tar.gz"
 [[libpolars]]
 arch = "aarch64"
-git-tree-sha1 = "5f1c6b28c5c2cb0cfd07eb8edaeb16aea7725834"
+git-tree-sha1 = "5a1c2b37c358ad49bf5b57a7971d773c127d3a38"
 libc = "glibc"
 os = "linux"
 
     [[libpolars.download]]
-    sha256 = "690eb347a9ad8a248511cef874e1aa5de12d68e67abca88be55e80e0e7b18868"
-    url = "https://github.com/JuliaBinaryWrappers/libpolars_jll.jl/releases/download/libpolars-v0.1.0+0/libpolars.v0.1.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "689251a9a6eedcfb78d8e54b69d2205c7ec1fae17304bad442d66232c78463bc"
+    url = "https://github.com/JuliaBinaryWrappers/libpolars_jll.jl/releases/download/libpolars-v0.1.1+0/libpolars.v0.1.1.aarch64-linux-gnu.tar.gz"
 [[libpolars]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "17cf0a82a268841a068a06aaf33c841157582211"
+git-tree-sha1 = "39d487d92df0749ab746a977a02f01055154d5f0"
 libc = "glibc"
 os = "linux"
 
     [[libpolars.download]]
-    sha256 = "353c24e4918f2439809c93f4597cf60ebdbb8703d83e66c251f674ecf045e9e0"
-    url = "https://github.com/JuliaBinaryWrappers/libpolars_jll.jl/releases/download/libpolars-v0.1.0+0/libpolars.v0.1.0.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "ea9bc99313a9f6467ec4889b27520b1bf18e6cfbaa000313560a86c7d6c01b03"
+    url = "https://github.com/JuliaBinaryWrappers/libpolars_jll.jl/releases/download/libpolars-v0.1.1+0/libpolars.v0.1.1.armv6l-linux-gnueabihf.tar.gz"
 [[libpolars]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "4eac2dbd6017753afb1cbf43d3f95adf61779d5a"
+git-tree-sha1 = "5ab7f482eeb947a3b850481ce4e4e94eaf32dfd8"
 libc = "glibc"
 os = "linux"
 
     [[libpolars.download]]
-    sha256 = "9392da41d9f42546c7b5cfc8d5b398622f1a7975ae55cbaa96557e1963047605"
-    url = "https://github.com/JuliaBinaryWrappers/libpolars_jll.jl/releases/download/libpolars-v0.1.0+0/libpolars.v0.1.0.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "b7416823af66c1cfa0739b41c696be85465e7ed3e10df3be406e72ac6c48376b"
+    url = "https://github.com/JuliaBinaryWrappers/libpolars_jll.jl/releases/download/libpolars-v0.1.1+0/libpolars.v0.1.1.armv7l-linux-gnueabihf.tar.gz"
 [[libpolars]]
 arch = "i686"
-git-tree-sha1 = "ff9411fdddf29100f2e5e7ce4520537e808bc1bc"
+git-tree-sha1 = "f3ccf4bca5a98b1192564bb9338a11c1139f4df2"
 libc = "glibc"
 os = "linux"
 
     [[libpolars.download]]
-    sha256 = "dc09319e11b271cb3889c452156cf31fc1860fa2102b7ee3892471bb0362ef25"
-    url = "https://github.com/JuliaBinaryWrappers/libpolars_jll.jl/releases/download/libpolars-v0.1.0+0/libpolars.v0.1.0.i686-linux-gnu.tar.gz"
+    sha256 = "f8fb8b0468b8bc1da5de395c22447a9eb62a9ecad9b7b96e32bd9e1bc384e619"
+    url = "https://github.com/JuliaBinaryWrappers/libpolars_jll.jl/releases/download/libpolars-v0.1.1+0/libpolars.v0.1.1.i686-linux-gnu.tar.gz"
 [[libpolars]]
 arch = "powerpc64le"
-git-tree-sha1 = "f6608fa13baf7ed174b81d58f3978ea45ab0c19a"
+git-tree-sha1 = "1c1b8159a561b25cc9da0e4e5e1d45ff63f2dbd0"
 libc = "glibc"
 os = "linux"
 
     [[libpolars.download]]
-    sha256 = "a9d0ed0a0dcfb82b72b1c830689769da4bab02fc01b048a1356fcf462b888ac4"
-    url = "https://github.com/JuliaBinaryWrappers/libpolars_jll.jl/releases/download/libpolars-v0.1.0+0/libpolars.v0.1.0.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "36d2ee86473ea20d8b86b67ec050f6285d0a96e3f4a4eb96e6589a2bbc2c1a0c"
+    url = "https://github.com/JuliaBinaryWrappers/libpolars_jll.jl/releases/download/libpolars-v0.1.1+0/libpolars.v0.1.1.powerpc64le-linux-gnu.tar.gz"
 [[libpolars]]
 arch = "x86_64"
-git-tree-sha1 = "a0dc96ff08aa9d474527570aaca832cd707c8643"
+git-tree-sha1 = "aef9e1dfed52d93fc60439f25be70deb5d424600"
 os = "macos"
 
     [[libpolars.download]]
-    sha256 = "71c49d5dc66a1c36c7d6bc17eafbcec6cd39350257c5be7152b0519f6934c758"
-    url = "https://github.com/JuliaBinaryWrappers/libpolars_jll.jl/releases/download/libpolars-v0.1.0+0/libpolars.v0.1.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "ec5987aa57813c19a805a558bdad0a37aace63bd51cff98261e4b28fe0148759"
+    url = "https://github.com/JuliaBinaryWrappers/libpolars_jll.jl/releases/download/libpolars-v0.1.1+0/libpolars.v0.1.1.x86_64-apple-darwin.tar.gz"
 [[libpolars]]
 arch = "x86_64"
-git-tree-sha1 = "cc5ac66233fa86a0160f499bc63c42ce3d4a677b"
+git-tree-sha1 = "5bcefb826b9dd410e35355ee7ce08f216897f651"
 libc = "glibc"
 os = "linux"
 
     [[libpolars.download]]
-    sha256 = "3cd0a80e4cea5be256b154c3b7eacf71b13920030d9295c2dc5e67544260bfd5"
-    url = "https://github.com/JuliaBinaryWrappers/libpolars_jll.jl/releases/download/libpolars-v0.1.0+0/libpolars.v0.1.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "98339ebfdf555df4a9f0c8a04134d099033ed2c792baa493551b5a64afca2ea4"
+    url = "https://github.com/JuliaBinaryWrappers/libpolars_jll.jl/releases/download/libpolars-v0.1.1+0/libpolars.v0.1.1.x86_64-linux-gnu.tar.gz"
 [[libpolars]]
 arch = "x86_64"
-git-tree-sha1 = "63bc9a3137aeaa6b716bc71438080705f6534186"
+git-tree-sha1 = "90b60a84efb3f992024342cb6b43704c9e941d37"
 os = "freebsd"
 
     [[libpolars.download]]
-    sha256 = "90a78ade850aba329e470dad4b21c178ca11dae66d32aa4ce9f4c0664554478e"
-    url = "https://github.com/JuliaBinaryWrappers/libpolars_jll.jl/releases/download/libpolars-v0.1.0+0/libpolars.v0.1.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "793047d664db230cb0575ff5015e38ca354a2a4097d366558be2f7d43eaec26d"
+    url = "https://github.com/JuliaBinaryWrappers/libpolars_jll.jl/releases/download/libpolars-v0.1.1+0/libpolars.v0.1.1.x86_64-unknown-freebsd.tar.gz"
 [[libpolars]]
 arch = "x86_64"
-git-tree-sha1 = "a68842ab99188e4a079d7f2814b6c9e7361b0d1c"
+git-tree-sha1 = "76b814e622f95aaf3e0b84596bcb9cd9f7a6d4ca"
 os = "windows"
 
     [[libpolars.download]]
-    sha256 = "f6dc9f193af0f507a1ec4a02e3671a9d19c7222f5b24ebcf42683f78690f40a4"
-    url = "https://github.com/JuliaBinaryWrappers/libpolars_jll.jl/releases/download/libpolars-v0.1.0+0/libpolars.v0.1.0.x86_64-w64-mingw32.tar.gz"
+    sha256 = "c4db623d4d0b2792ca7eab11b6332ab673b87758c33cf7a30d42f878db0b74c3"
+    url = "https://github.com/JuliaBinaryWrappers/libpolars_jll.jl/releases/download/libpolars-v0.1.1+0/libpolars.v0.1.1.x86_64-w64-mingw32.tar.gz"
